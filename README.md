@@ -1,4 +1,4 @@
-## Hi, I’m Alfu
+## Hi, I’m Alfu  :wave:
 
 Backend-focused engineer with a PhD in computer science, focused on building distributed, event-driven backend systems and developer tooling, with past feature contributions to Eclipse Hono, Debezium, CloudEvents, and Apache Jackrabbit.
 
