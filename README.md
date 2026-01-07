@@ -9,5 +9,4 @@ Backend engineer with a PhD in computer science, focused on building distributed
 - Developer tooling and software security
 - Containerized environments (Docker, Kubernetes)
 
-<img width="50%" align="right"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alfusainey&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Alfusainey&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&hide_border=true&cache_seconds=86400" /> -->
