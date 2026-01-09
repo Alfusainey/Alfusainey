@@ -5,9 +5,7 @@ Experienced in translating real-world questions into data-driven insights and bu
 Past feature contributions to open-source projects including Eclipse Hono, Debezium, CloudEvents, and Apache Jackrabbit.
 
 ### Areas of focus and interest
-- Statistical analysis and exploratory data analysis
-- Data modeling and model evaluation
-- Python-based data analysis and tooling
+- Python-based exploratory data analysis
 - Data pipelines and streaming analytics (Kafka, CDC, AMQP)
 - Applied machine learning foundations (NLP, deep learning concepts)
 - Distributed systems and scalable data processing
