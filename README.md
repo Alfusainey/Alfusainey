@@ -1,14 +1,8 @@
 ## Hi, I’m Alfu  :wave:
 
-Data scientist with a PhD in computer science, focused on large-scale empirical data analysis and Python-based data exploration. 
-Experienced in translating real-world questions into data-driven insights and building scalable data pipelines and analytical tooling. 
-Past feature contributions to open-source projects including Eclipse Hono, Debezium, CloudEvents, and Apache Jackrabbit.
+Currently exploring distributed code intelligence and recurring code fragments across modern software ecosystems. My work focuses on understanding how semantically related code fragments propagate and evolve across open-source projects, developer forums, internal systems, documentation, and AI-generated code.
 
-### Areas of focus and interest
-- Python-based exploratory data analysis
-- Data pipelines and streaming analytics (Kafka, CDC, AMQP)
-- Applied machine learning foundations (NLP, deep learning concepts)
-- Distributed systems and scalable data processing
+Areas of interest include software ecosystems, software supply chain visibility, static analysis, developer tooling, and AI-generated code.
 
 ### Selected Contributions
 
