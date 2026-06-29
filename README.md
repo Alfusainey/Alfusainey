@@ -1,8 +1,6 @@
 ## Hi, I’m Alfu  :wave:
 
-Currently exploring distributed code intelligence and recurring code fragments across modern software ecosystems. My work focuses on understanding how semantically related code fragments propagate and evolve across open-source projects, developer forums, internal systems, documentation, and AI-generated code.
-
-Areas of interest include software ecosystems, software supply chain visibility, static analysis, developer tooling, and AI-generated code.
+Currently exploring distributed code intelligence and recurring code fragments across modern software ecosystems. My work focuses on understanding how semantically related code fragments propagate and evolve across open-source projects, developer forums, and internal systems.
 
 ### Selected Contributions
 
